@@ -89,14 +89,14 @@ cd CES-Impact-Predicting-Environmental-Health
 
 3. Open the notebook in Jupyter:
 ```bash
-jupyter CES_Impact_Environmental_Health_Analysis.ipynb
+jupyter CES_Impact_Analysis.ipynb
 ```
 
 4. Run each cell to execute the analysis.
 
 ## Project Structure
 
-- `CES_Impact_Environmental_Health_Analysis.ipynb`: Jupyter notebook containing the entire analysis from data exploration to modeling.
+- `CES_Impact_Analysis.ipynb`: Jupyter notebook containing the entire analysis from data exploration to modeling.
 - `data`:The data used in this project comes from the [CalEnviroScreen 3.0](https://data.ca.gov/dataset/calenviroscreen-3-0-results) dataset.
 - `README.md`: Detailed documentation of the project.
   
