@@ -87,7 +87,7 @@ git clone https://github.com/settylokesh/CES-Impact-Predicting-Environmental-Hea
 cd CES-Impact-Predicting-Environmental-Health
 ```
 
-3. Open the notebook CES_Impact_Analysis.ipynb in Jupyter:
+3. Open the notebook CES_Impact_Analysis.ipynb in Jupyter.
 
 
 4. Run each cell to execute the analysis.
